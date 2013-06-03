@@ -9,8 +9,8 @@ the Open Directory Project.
 
 For more details, please see:
 
-http://help.blekko.com/index.php/what-is-a-slashtag/
-http://blog.blekko.com/2013/01/14/cracking-the-search-category-problem/
+* http://help.blekko.com/index.php/what-is-a-slashtag/
+* http://blog.blekko.com/2013/01/14/cracking-the-search-category-problem/
 
 We generate the categories in blekko and izik's search results based
 on this human curation data, augmented by machine-learning, and then
@@ -31,7 +31,7 @@ more urls and slashtags. The slashtags form a DAG.
 
 URLs come in 3 forms:
 
-1) Complete websites. Example: http://www.gamblersanonymous.org/
-2) Paths within a website. Example: http://espn.go.com/nfl/
-3) Wildcarded paths. Example: http://www.oscon.com/*perl
+* Complete websites. Example: http://www.gamblersanonymous.org/
+* Paths within a website. Example: http://espn.go.com/nfl/
+* Wildcarded paths. Example: http://www.oscon.com/*perl
 
